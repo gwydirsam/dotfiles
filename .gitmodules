@@ -364,3 +364,9 @@
 [submodule "vim/bundle/itspriddle-vim-jquery"]
 	path = vim/bundle/itspriddle-vim-jquery
 	url = https://github.com/itspriddle/vim-jquery.git
+[submodule "vim/bundle/base16"]
+	path = vim/bundle/base16
+	url = git://github.com/chriskempson/base16-vim.git
+[submodule "vim/bundle/tomorrow-theme"]
+	path = vim/bundle/tomorrow-theme
+	url = git://github.com/chriskempson/vim-tomorrow-theme.git
